@@ -1,0 +1,4 @@
+streamlit
+pandas
+PySide6
+pywebview
